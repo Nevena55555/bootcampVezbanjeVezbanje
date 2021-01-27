@@ -1,0 +1,64 @@
+    1  % brew -v
+    2  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5  $ brew install git
+    6  brew install git
+    7  git -version
+    8  git --version
+    9  brew install git-gui
+   10  cd ..
+   11  cd ..
+   12  touch test.txt
+   13  cd test123
+   14  chsh -s /bin/zsh
+   15  pwd
+   16  ls
+   17   ls -l
+   18  cd Users
+   19  cd Desktop
+   20  pwd
+   21  ls -l
+   22  cd Beta slike
+   23  cd Draga Nevena
+   24  cd Desktop
+   25  cd Desktop
+   26  cd 'Beta slike'
+   27  ls -l
+   28  cd Desktop
+   29  cd Desktop
+   30  ls
+   31  cd ..
+   32  ls
+   33  cd ../..
+   34  cd Desktop
+   35  cd ..
+   36  cd Desktop
+   37  mkdir test123
+   38  cd ..
+   39  cd
+   40  pwd
+   41  ls
+   42  cd Downloads
+   43  mkdir test123
+   44  ls -l
+   45  cd test123
+   46  touch test.txt
+   47  nano test.txt
+   48  cat test.txt
+   49  man ls
+   50  history
+   51  history > istorija.txt
+   52  rm.test.txt
+   53  rm test.txt
+   54  mkdir dir2
+   55  rmdir dir2
+   56  cat istorija.txt
+   57  tail istorija.txt
+   58  tail -n 3 istorija.txt
+   59  head istorija.txt
+   60  head -n 3 istorija.txt
+   61  date
+   62  time
+   63  cal
+   64  history > istorija.txt
